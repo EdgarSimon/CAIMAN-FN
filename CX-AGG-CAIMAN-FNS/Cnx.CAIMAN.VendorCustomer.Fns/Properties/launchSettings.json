@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Cnx.CAIMAN.VendorCustomer.Fns": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7154",
+      "launchBrowser": false
+    }
+  }
+}

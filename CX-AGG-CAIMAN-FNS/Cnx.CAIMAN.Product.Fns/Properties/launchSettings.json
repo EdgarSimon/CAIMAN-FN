@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Cnx.CAIMAN.Product.Fns": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7000",
+      "launchBrowser": false
+    }
+  }
+}
